@@ -1,0 +1,27 @@
+.postcard{
+    box-shadow:2px 3px 3px gray;
+    width:30vw;
+    margin:10px 50px 10px 10px;
+}
+.details{
+    color:gray;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+.heading{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.information{
+    color:gray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    line-height:30px;
+}
+.next{
+    color: gray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.fas- fa-angle-right{
+    color:gray;
+}
